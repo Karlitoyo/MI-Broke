@@ -1,0 +1,3 @@
+*.hcl
+logs/
+.Rproj.user

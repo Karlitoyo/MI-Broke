@@ -1,0 +1,11 @@
+svg {
+  display: block;
+  margin: 50px auto;
+}
+
+#loader 
+{ fill: #0088cc }
+
+.countdown {
+  background-color: #000000;
+}
