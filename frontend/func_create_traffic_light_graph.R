@@ -2,7 +2,6 @@
 rm(list = ls())
 library(tidyverse)
 library(plotly)
-library(htmlwidgets)
 
 ### define colors
 
