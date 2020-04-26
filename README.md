@@ -185,18 +185,18 @@ Department of Finance & Legal: Finance Planning & Operations, Legal, External Af
 
 ## EUvsVirus-Team
 
-Manuel Weiler: Front end development
-Elias Lanbach: Development, coordination
-Felix Keller: Backend development, economic and statistical modelling
-Karl Timmins: Back End Cashflow & Risk calculations
-Dominik Schmidt: Economic modelling
-Jeanette Goebel: Banking insights
-Cristian Lupascu: Information security, compliance to regulations regarding data privacy through technology, product market fit and financial projections.
-Sheqere Balliu: Business Plan coordination, Marketing and sales strategy, market opportunities and competitor analysis.
-Madlen Karg: legal aspects
-Frederik Tutter: market research
-Marlon Pichler: Video animation and editing
-Leonhard Schwinn: Team Lead
+ - Manuel Weiler: Front end development
+ - Elias Lanbach: Development, coordination
+ - Felix Keller: Backend development, economic and statistical modelling
+ - Karl Timmins: Back End Cashflow & Risk calculations
+ - Dominik Schmidt: Economic modelling
+ - Jeanette Goebel: Banking insights
+ - Cristian Lupascu: Information security, compliance to regulations regarding data privacy through technology, product market fit and financial projections.
+ - Sheqere Balliu: Business Plan coordination, Marketing and sales strategy, market opportunities and competitor analysis.
+ - Madlen Karg: legal aspects
+ - Frederik Tutter: market research
+ - Marlon Pichler: Video animation and editing
+ - Leonhard Schwinn: Team Lead
 
 
 
