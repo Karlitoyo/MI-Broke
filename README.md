@@ -21,7 +21,7 @@ The website development and purpose has been broken down, into the detailed sect
 
 
 * [Products-and-Services](https://github.com/Karlitoyo/MI-Broke.git#Products-and-Services)
-    - [Scaling-Opportunities]https://github.com/Karlitoyo/MI-Broke.git#Scaling-Opportunities)
+    - [Scaling-Opportunities](https://github.com/Karlitoyo/MI-Broke.git#Scaling-Opportunities)
     - [Market-Opportunities](https://github.com/Karlitoyo/MI-Broke.git#Market-Opportunities)
     - [Competitive-Advantage](https://github.com/Karlitoyo/MI-Broke.git#Competitive-Advantage)
     - [Competitor-analysis](https://github.com/Karlitoyo/MI-Broke.git#Competitor-analysis)
