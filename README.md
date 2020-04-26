@@ -21,7 +21,7 @@ The website development and purpose has been broken down, into the detailed sect
 
 
 * [Products-and-Services](https://github.com/Karlitoyo/MI-Broke.git#Products-and-Services)
-    - [Scaling-opportunities]https://github.com/Karlitoyo/MI-Broke.git#Scaling-opportunities)
+    - [Scaling-Opportunities]https://github.com/Karlitoyo/MI-Broke.git#Scaling-Opportunities)
     - [Market-Opportunities](https://github.com/Karlitoyo/MI-Broke.git#Market-Opportunities)
     - [Competitive-Advantage](https://github.com/Karlitoyo/MI-Broke.git#Competitive-Advantage)
     - [Competitor-analysis](https://github.com/Karlitoyo/MI-Broke.git#Competitor-analysis)
@@ -54,7 +54,7 @@ A third main feature is offering business owners exclusive access to discounts a
 from our website. (in progress)
 
 
-## Scaling-opportunities
+## Scaling-Opportunities
 
 Create log-in opportunity for users which will enable new features such as financial expertise & counselling, community meetups, webinars and tutorials, offered 
 to premium users for a small subscription fee.
