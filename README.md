@@ -3,7 +3,7 @@
  ***ReadMe***
 
 
- - Executive Summary
+ # Executive Summary
  
 In the current Covid-19 global crisis, there is a substantial amount of businesses that will suffer financially, not only to develop and grow, but even to meet their most basic 
 needs for keeping afloat. In the case of SMEs, a part of them will not even have the expertise and resources needed to make an estimation on how much time they have left in the 
